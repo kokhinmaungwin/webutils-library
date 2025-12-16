@@ -1,0 +1,14 @@
+{
+  "name": "webutils",
+  "version": "1.0.0",
+  "description": "Standalone utility library for all websites",
+  "main": "webutils.js",
+  "keywords": [
+    "web",
+    "utils",
+    "javascript",
+    "library"
+  ],
+  "author": "Khin Maung Win",
+  "license": "MIT"
+}
