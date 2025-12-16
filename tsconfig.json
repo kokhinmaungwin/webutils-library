@@ -8,5 +8,6 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["src/webutils.ts"]
+  "include": ["src/**/*.ts"],
+  "exclude": ["dist"]
 }
