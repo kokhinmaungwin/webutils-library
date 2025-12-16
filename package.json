@@ -2,13 +2,15 @@
   "name": "webutils",
   "version": "1.0.0",
   "description": "Standalone utility library for all websites",
-  "main": "webutils.js",
-  "keywords": [
-    "web",
-    "utils",
-    "javascript",
-    "library"
-  ],
+  "main": "dist/webutils.js",
+  "types": "dist/webutils.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["web", "utils", "javascript", "library"],
   "author": "Khin Maung Win",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
 }
