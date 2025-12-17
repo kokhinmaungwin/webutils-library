@@ -1,6 +1,6 @@
 {
   "name": "webutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standalone utility library for all websites",
   "main": "dist/webutils.js",
   "types": "dist/webutils.d.ts",
