@@ -27,9 +27,9 @@ Provides handy helper functions for DOM manipulation, cookies, localStorage, eve
 ## Usage
 
 Include in your project:
-
+CDN
 ```html
-<script src="webutils.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/webutils-library@v1.0.1/dist/webutils.js"></script>
 ```
 Or import as a module (Node.js / bundler):
 ```js
