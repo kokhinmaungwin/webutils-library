@@ -1,5 +1,5 @@
 /*!
- * WebUtils Library v1.0.0
+ * WebUtils Library v1.0.1
  * Author: Khin Maung Win
  * License: MIT
  * Standalone utility library for all websites (TypeScript version)
